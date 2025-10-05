@@ -41,3 +41,8 @@ git commit -m "Add [resource name] to [section]"
 ```
 
 5. Push to your branch and create a Pull Request
+
+
+## Code of Conduct
+
+Please be respectful and professional when contributing. Follow community guidelines and avoid inappropriate content.
