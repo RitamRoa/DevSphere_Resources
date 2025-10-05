@@ -1,4 +1,4 @@
-# Contributing to Coding & CS Resource Hub
+# Contributing to DevSphere_Resources
 
 Thank you for your interest in contributing! Your contributions help keep this repository useful and up-to-date for everyone.
 
