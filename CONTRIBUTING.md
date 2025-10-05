@@ -47,4 +47,4 @@ git commit -m "Add [resource name] to [section]"
 
 Please be respectful and professional when contributing. Follow community guidelines and avoid inappropriate content.
 
-Thank you for helping make this repo better for everyone ❤️
+Thank you for helping this repo better for everyone ❤️
