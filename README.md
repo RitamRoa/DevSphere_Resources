@@ -12,7 +12,7 @@ This repo is organized to help students, developers, and enthusiasts learn, prac
 - `projects.md` — Build-your-own-X, project ideas, open-source alternatives  
 - `misc.md` — Public APIs, AI prompts, secret knowledge, other useful links  
 - `CONTRIBUTING.md` — Guidelines for contributing resources  
-- `LICENSE.md` — Repository license  
+- `LICENSE` — Repository license  
 
 ---
 
