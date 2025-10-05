@@ -7,7 +7,7 @@ This repo is organized to help students, developers, and enthusiasts learn, prac
 
 ## Structure
 
-- `interview-prep.md` — DSA, coding patterns, system design, company-wise problems, OOP questions  
+- `interview-prep.md` — DSA, coding patterns, system design, company-wise problems. 
 - `resources.md` — Books, free certifications, video playlists, cheat sheets  
 - `projects.md` — Build-your-own-X, project ideas, open-source alternatives  
 - `misc.md` — Public APIs, AI prompts, secret knowledge, other useful links  
